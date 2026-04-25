@@ -25,6 +25,7 @@ const edJames = [
   {
     titulo: "Ecos do Amanhã Perdido",
     preco: 39
+  },
   {
     titulo: "A Última Chama do Norte",
     preco: 44
